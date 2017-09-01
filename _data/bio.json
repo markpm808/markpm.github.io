@@ -2,13 +2,13 @@
   "basics": {
     "name": "Mark McDermott",
     "label": "Student",
-    "picture": "https://markpm808.github.io/images/molly.png",
+    "picture": "https://markpm808.github.io/images/Screenshot_2017-07-04-03-57-15-1.png",
     "email": "markpm@hawaii.edu",
     "phone": "",
     "website": "https://markpm808.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
-      "address": "",
+      "address": "Kailua, Hawaii",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,41 +17,31 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "markpm808",
+        "url": "http://github.com/markpm808"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "Mark McDermott",
+        "url": "http://linkedin.com/in/mark-mcdermott-184751146"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "mark_pm_",
+        "url": "http://instagram.com/mark_pm_"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Data Networks",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
+      "name": "Data Security",
       "keywords": [
       ]
     }
