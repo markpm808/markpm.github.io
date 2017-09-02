@@ -21,4 +21,4 @@ theme-bio: theme-bio-builtin-1.html
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
 include: [_data]
-
+encoding: UTF-8
