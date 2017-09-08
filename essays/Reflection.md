@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Learning the Foundations of JavaScript
-date: 2017-09-01
+title: Reflection:How-to-Ask-Smart-Questions
+date: 2017-09-07
 labels:
   - Software Engineering
   - Learning
