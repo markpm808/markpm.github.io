@@ -1,4 +1,3 @@
-
 ---
 layout: essay
 type: essay
@@ -10,7 +9,6 @@ labels:
   -Coding Standards
   -Clean Code
 ---
-
 
 When it comes to writing code, people often overlook the importance of writing clean code and tend to focus only on getting their code to run correctly. While this may make things easier for them in the short term, it ultimately makes things harder for them further down the road. Not only will writing clean code improve the readability of one’s code, but it will also improve the quality of the code being written. As important as the functionality of code is to programming, the style of coding used should also be seen as equally important.  
 	
