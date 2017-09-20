@@ -2,11 +2,13 @@
 ---
 layout: essay
 type: essay
-title: Learning the Foundations of JavaScript
-date: 2017-09-01
+title: Why-Coding-Standards-Matter
+date: 2017-09-19
 labels:
   - Software Engineering
   - Learning
+  -Coding Standards
+  -Clean Code
 ---
 
 
