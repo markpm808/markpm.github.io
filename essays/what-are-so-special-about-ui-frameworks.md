@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: what-are-so-special-about-ui-frameworks
+title: What are so special about UI Frameworks?
 date: 2017-10-05
 labels:
   - Software Engineering
