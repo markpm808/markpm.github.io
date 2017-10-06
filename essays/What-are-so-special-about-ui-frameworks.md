@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions
+title: What Are So Special About UI Frameworks?
 date: 2017-09-01
 labels:
   - Software Engineering
