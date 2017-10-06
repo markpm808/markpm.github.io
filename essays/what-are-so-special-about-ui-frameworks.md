@@ -1,20 +1,20 @@
 ---
 layout: essay
 type: essay
-title: Why-Coding-Standards-Matter
-date: 2017-09-19
+title: what-are-so-special-about-ui-frameworks
+date: 2017-10-05
 labels:
   - Software Engineering
   - Learning
-  - Clean Code
-  - Coding Standards
+  - UI Frameworks
+  - HTML
+  -CSS
+  -Web Pages
 ---
 
 
-When it comes to writing code, people often overlook the importance of writing clean code and tend to focus only on getting their code to run correctly. While this may make things easier for them in the short term, it ultimately makes things harder for them further down the road. Not only will writing clean code improve the readability of one’s code, but it will also improve the quality of the code being written. As important as the functionality of code is to programming, the style of coding used should also be seen as equally important. 
+UI Frameworks are becoming more and more popular now days with people who are looking to create web applications. Instead of just using raw HTML and CSS to make interactive and visually appealing websites, UI Frameworks can be added to projects to further increase their usability. While implementing UI Frameworks into new web applications may sound easy enough, it actually takes a great amount of time to learn and master each individual framework. Having said that, UI Frameworks continue to be the choice of many software engineers when it comes to web applications. So, what is it that is so special about UI Frameworks?
 
-One of the first key steps to writing clean code is to find a coding style that both yourself and others who read your code can understand well. There are many popular coding styles that people use to write code. Choosing one of these will help you to conform to the coding standards that other people have. It is not only important to implement a coding style, but also to stay consistent when using it to write code. Staying consistent with how you write code will help to avoid any confusion when reading it. By following these steps to making your code more readable, other people who read your code will have a much easier time understanding what it is that you are writing. This is especially important when you are working with multiple people on a coding project. Even if your code runs perfectly, how useful is it really if no one else but you is able to understand it? Writing clean code ensures that other people, not just yourself, can easily debug and maintain the code. 
+First off, UI Frameworks offer a way for people to make much more robust and interactive web applications. These UI Frameworks essentially take the functionality and usability of HTML and CSS and build off those two things in such a way that gives websites much more functionality and creativity. There are many UI Frameworks that have been created by countless people, which are usually free to download off of the web. Some Frameworks are similar to others, while others are much different. What makes UI Frameworks so great is the uniqueness each one provides. Some UI Frameworks may work well for one thing, while others may provide benefits that are unique only to them. This allows users to pick and choose which Framework works best for their needs. The functionality that UI Frameworks provides allows users to greatly increase the effectiveness of their web applications. 
 
-A second key reason for maintaining a standard of coding is to give yourself a heightened sense of admiration for your code. By increasing the cleanliness of your code and making it look “nice”, you will take more pride in your work and become more satisfied with your finished product. This will in turn lead to you producing better quality work because of the higher standards you have set for yourself. Also in the case where your code does not function properly, at least you can say that your code looks exceptionally well despite the errors. 
-	
-These are some of a few reasons why maintaining a coding standard is important. Not only will it help yourself and others to read your code, but it will improve the quality of your work. People who do not consistently use a style of coding are limiting themselves when it comes to future situations where their code will be looked at and analyzed by others. By changing the way you code now in order to develop a clean style of coding, you will be doing your future self a favor by avoiding the unnecessary stress that will come with having to undo years of bad coding practices. 
+Another great feature that UI Frameworks provides is its efficiency when creating web applications. Instead of having to spend countless hours creating a web page that not only has amazing functionality but is also visually appealing, the same web page can be created using UI Frameworks in much less time. Using the pre-built functions and tools of UI Frameworks, users can create webpages much faster and easier after taking advantage of these features. Customizing objects and implementing new creative strategies allow the user to become more flexible in their coding, only being restricted by the limitations of the particular UI Framework.	
