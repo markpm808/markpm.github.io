@@ -5,7 +5,7 @@ title: Smart Questions
 date: 2017-09-01
 labels:
   - Software Engineering
-  - smart questions
+  - Smart Questions
 ---
 
 
