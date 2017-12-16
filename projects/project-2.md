@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/commandline2.png
-title: Vacay
-permalink: projects/vacay
+title: HTTP Server
+permalink: projects/http-server
 date: 2015
 labels:
   - Java
