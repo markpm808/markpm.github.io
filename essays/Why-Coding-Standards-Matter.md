@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Why-Coding-Standards-Matter
-date: 2017-09-19
+date: 2017-09-21
 labels:
   - Software Engineering
   - Learning
