@@ -6,8 +6,8 @@ date: 2017-09-01
 labels:
   - Software Engineering
   - Learning
-  -smart questions
-  -not-smart questions
+  - smart questions
+  - not-smart questions
 ---
 
 
