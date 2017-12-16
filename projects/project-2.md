@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/commandline.png
+image: images/commandline2.png
 title: Vacay
 permalink: projects/vacay
 date: 2015
