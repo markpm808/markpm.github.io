@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing2.png
+image: images/landing2square.png
 title: Manoa-Grindz
 permalink: projects/manoa-grindz
 date: 2017
