@@ -6,7 +6,7 @@
     "email": "markpm@hawaii.edu",
     "phone": "",
     "website": "https://markpm808.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I will graduate from UH Manoa in the Spring of 2018",
     "location": {
       "address": "Kailua, Hawaii",
       "postalCode": "96822",
@@ -74,7 +74,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
