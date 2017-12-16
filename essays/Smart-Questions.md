@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Smart Questions
-date: 2017-09-01
+date: 2017-09-07
 labels:
   - Software Engineering
   - Smart Questions
