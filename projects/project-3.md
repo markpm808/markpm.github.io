@@ -8,7 +8,7 @@ date: 2017
 labels:
   - Semantic UI
   - CSS
-summary: A mockup of the Source: <a href="www.panioloshawaii.com/">Paniolos</a> home page using Semantic UI.
+summary: A mockup of the Paniolos home page using Semantic UI.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
