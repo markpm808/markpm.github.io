@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/landing2.png
 title: Manoa-Grindz
 permalink: projects/manoa-grindz
 date: 2017
