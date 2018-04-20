@@ -52,9 +52,14 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
         "Python",
-        "Common Lisp"
+        "Common Lisp",
+        "HTML",
+        "SQL",
+        "Perl",
+        "Javascript",
+        "Pandas",
+        "Meteor.js"
       ]
     },
     {
@@ -62,9 +67,15 @@
       "level": "",
       "keywords": [
         "Windows",
-        "WireShark",
         "Git/GitHub",
         "Command Line",
+        "Secure Shell",
+        "MS Office Suite",
+        "phpMyAdmin",
+        "cPanel",
+        "Jupyter Notebook"
+        
+        
       ]
     }
   ],
@@ -75,7 +86,7 @@
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.3",
       "courses": [
       ]
     }
